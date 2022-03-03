@@ -1,5 +1,4 @@
 .scroll {
-
   padding: 0.9rem 1.5rem;
   font-size: 1.5rem;
   text-align: center;
@@ -11,220 +10,221 @@
   border-radius: 1px;
   box-shadow: 0 9px #FF004D;
 }
-body{
+
+body {
   margin: 0;
   padding: 0;
   font-family: 'Shippori Antique B1', sans-serif;
 }
-h3{
+
+h3 {
   font-family: 'Shippori Antique B1', sans-serif;
-
-
 }
 
-.scroll:hover {background-color: #9D0B28}
+.scroll:hover {
+  background-color: #9D0B28
+}
 
 .scroll:active {
   background-color: #9D0B28;
   box-shadow: 0 5px #FFAFAF;
   transform: translateY(4px);
 }
+
 #btn {
-   background: #FFAFAF;
+  background: #FFAFAF;
 }
 
-a,p {
-   color: inherit;
-
+a, p {
+  color: inherit;
 }
-a:hover{
+
+a:hover {
   color: #9D0B28;
 }
-h1:hover{
-   color: #FFAFAF;
+
+h1:hover {
+  color: #FFAFAF;
 }
+
 .parallax {
-   background-image: url("https://scontent.fver1-1.fna.fbcdn.net/v/t1.6435-9/163248527_10225040083298347_3062091432998008957_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeH3TOjNL3BzeFu7J42fRpKbTFq-eBmBTDdMWr54GYFMN9JE6QgvMhe76qltpTOmk2A&_nc_ohc=XQ6DqmCbW8EAX_wbr5O&tn=nMYrT60c9ikXP_Lk&_nc_ht=scontent.fver1-1.fna&oh=00_AT9wxeSo5uECc3eBvhLTq4lTSo7sj3Rq1tcjA8GeCX74EQ&oe=6243F72F");
-   min-height: 15rem;
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  background-image: url("https://scontent.fver1-1.fna.fbcdn.net/v/t1.6435-9/163248527_10225040083298347_3062091432998008957_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeH3TOjNL3BzeFu7J42fRpKbTFq-eBmBTDdMWr54GYFMN9JE6QgvMhe76qltpTOmk2A&_nc_ohc=XQ6DqmCbW8EAX_wbr5O&tn=nMYrT60c9ikXP_Lk&_nc_ht=scontent.fver1-1.fna&oh=00_AT9wxeSo5uECc3eBvhLTq4lTSo7sj3Rq1tcjA8GeCX74EQ&oe=6243F72F");
+  min-height: 30rem;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box1 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 50px 80px;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 50px 80px;
 }
 
 .img2 {
-   background-image: url("https://pbs.twimg.com/media/FM3W2C6XsAAcLjw?format=jpg&name=900x900");
-   min-height: 500px;
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  background-image: url("https://pbs.twimg.com/media/FM3W2C6XsAAcLjw?format=jpg&name=900x900");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box2 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 50px 80px;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 50px 80px;
 }
-#img3 {
-   background-image: url("https://pbs.twimg.com/media/FM3vqFmXwAg6gOn?format=jpg&name=large");
-   min-height: 600px;
 
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+#img3 {
+  background-image: url("https://pbs.twimg.com/media/FM3vqFmXwAg6gOn?format=jpg&name=large");
+  min-height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box3 {
-   text-align: center;
-   background: -webkit-linear-gradient(300deg, #9D0B28, #FF004D);
-   background: -o-linear-gradient(300deg, #9D0B28, #FF004D);
-   background: linear-gradient(30deg, #9D0B28, #FF004D);
-   color: #FFC8C8;
-   padding: 1.2rem;
-   font-size: 25px;
+  text-align: center;
+  background: -webkit-linear-gradient(300deg, #9D0B28, #FF004D);
+  background: -o-linear-gradient(300deg, #9D0B28, #FF004D);
+  background: linear-gradient(30deg, #9D0B28, #FF004D);
+  color: #FFC8C8;
+  padding: 1.2rem;
+  font-size: 25px;
   /* letter-spacing: 10px; */
 }
 
 .img4 {
-   background-image: url("https://pbs.twimg.com/media/FM3UH-bWQAA899j?format=jpg&name=medium");
-   min-height: 500px;
-
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  background-image: url("https://pbs.twimg.com/media/FM3UH-bWQAA899j?format=jpg&name=medium");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box4 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
 
 .img5 {
-   background-image: url("https://pbs.twimg.com/media/FM3Xlu-WQAc67wt?format=jpg&name=large");
-   min-height: 500px;
-
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  background-image: url("https://pbs.twimg.com/media/FM3Xlu-WQAc67wt?format=jpg&name=large");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box5 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
-.img6 {
-   background-image: url("https://scontent.fver1-1.fna.fbcdn.net/v/t1.6435-9/104466997_10222806810147914_5094250392404105084_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFF-6jV590oi5eaLS86Yr3AHcgwgdWiY7kdyDCB1aJjueGbFznL5myUxZGZ2C3f7eE&_nc_ohc=FC4APwrGYXoAX_q988V&tn=nMYrT60c9ikXP_Lk&_nc_ht=scontent.fver1-1.fna&oh=00_AT9wyeyG4vxDqRS5XuIZEI8VnuZwkR4bV4YM72z_OYZDwQ&oe=6242E7E5");
-   min-height: 500px;
 
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+.img6 {
+  background-image: url("https://scontent.fver1-1.fna.fbcdn.net/v/t1.6435-9/104466997_10222806810147914_5094250392404105084_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFF-6jV590oi5eaLS86Yr3AHcgwgdWiY7kdyDCB1aJjueGbFznL5myUxZGZ2C3f7eE&_nc_ohc=FC4APwrGYXoAX_q988V&tn=nMYrT60c9ikXP_Lk&_nc_ht=scontent.fver1-1.fna&oh=00_AT9wyeyG4vxDqRS5XuIZEI8VnuZwkR4bV4YM72z_OYZDwQ&oe=6242E7E5");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box6 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
 
 .img7 {
-   background-image: url("https://pbs.twimg.com/media/FM3Y3wiXsAA_kqg?format=jpg&name=large");
-   min-height: 500px;
-
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  background-image: url("https://pbs.twimg.com/media/FM3Y3wiXsAA_kqg?format=jpg&name=large");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box7 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
   padding: 3rem;
 }
 
 .img8 {
   background-image: url("https://pbs.twimg.com/media/FM4InOKWQAcvKcZ?format=jpg&name=large");
-   min-height: 500px;
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box8 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
 
 .img9 {
   background-image: url("https://pbs.twimg.com/media/EzNyFKJUcAYLYhP?format=jpg&name=large");
-   min-height: 500px;
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box9 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
 
 .img10 {
   background-image: url("https://pbs.twimg.com/media/FM3T3y7XoAkJWj7?format=jpg&name=medium");
-   min-height: 400px;
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box10 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
 
 .img11 {
   background-image: url("https://pbs.twimg.com/media/FEZppJ2VcAE2gny?format=jpg&name=large");
-   min-height: 400px;
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .box11 {
-   color: #FFC8C8;
-   background: linear-gradient(35deg, #9D0B28, #FF004D);
-   text-align: center;
-   padding: 3rem;
+  color: #FFC8C8;
+  background: linear-gradient(35deg, #9D0B28, #FF004D);
+  text-align: center;
+  padding: 3rem;
 }
+
 /* ////////////////////////////// */
